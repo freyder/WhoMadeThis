@@ -1,0 +1,8 @@
+<Bindings>
+    <Binding name="WHOMADETHIS_TOGGLE" header="WHOMADETHIS" category="ADDONS">
+        WhoMadeThis_Toggle()
+    </Binding>
+    <Binding name="WHOMADETHIS_PRINT" category="ADDONS">
+        WhoMadeThis_Print()
+    </Binding>
+</Bindings>

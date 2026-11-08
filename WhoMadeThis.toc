@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Who Made This
+## Notes: Shows which add-on created the UI under the mouse. /wmt to toggle, /wmt print to list it in chat.
+## Author: Rob Freyder
+## Version: 1.0.0
+## X-License: MIT
+## X-Website: https://github.com/freyder/WhoMadeThis
+
+WhoMadeThis.lua
