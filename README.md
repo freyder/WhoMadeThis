@@ -28,13 +28,13 @@ If the client has no source for a frame, the add-on guesses from the frame's nam
 
 ## Install
 
-Download the repository (Code > Download ZIP), extract it, rename the folder to `WhoMadeThis` and put it in:
+Download `WhoMadeThis-x.y.z.zip` from the [latest release](https://github.com/freyder/WhoMadeThis/releases/latest) and extract it into:
 
 ```
-World of Warcraft/_forever_/Interface/AddOns/WhoMadeThis
+World of Warcraft/_forever_/Interface/AddOns/
 ```
 
-so that `WhoMadeThis.toc` is directly inside that folder. Restart the game (a `/reload` doesn't pick up new add-ons).
+The zip contains the `WhoMadeThis` folder, so you end up with `AddOns/WhoMadeThis/WhoMadeThis.toc`. Restart the game (a `/reload` doesn't pick up new add-ons).
 
 ## Compatibility
 
